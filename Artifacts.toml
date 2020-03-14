@@ -1,0 +1,97 @@
+[[bliss]]
+arch = "armv7l"
+git-tree-sha1 = "d98bf53c9515764ffdefb069439258c1f9ad5049"
+libc = "glibc"
+os = "linux"
+
+    [[bliss.download]]
+    sha256 = "d33d2c88537b147fdda610451557d16290603925e9a24758855a06798fed39da"
+    url = "https://github.com/benlorenz/bliss_jll.jl/releases/download/bliss-v0.73.0+0/bliss.v0.73.0.arm-linux-gnueabihf.tar.gz"
+[[bliss]]
+arch = "x86_64"
+git-tree-sha1 = "28dcd3df528332e95b061307ed439cc856e32a5a"
+libc = "glibc"
+os = "linux"
+
+    [[bliss.download]]
+    sha256 = "0081204d759d968aff6e457ecd337f54c2d4d0880e49a63e013aaa147faa583b"
+    url = "https://github.com/benlorenz/bliss_jll.jl/releases/download/bliss-v0.73.0+0/bliss.v0.73.0.x86_64-linux-gnu.tar.gz"
+[[bliss]]
+arch = "aarch64"
+git-tree-sha1 = "9ef9bf3e92bb7db0365ade95808e7fda3ac4303b"
+libc = "musl"
+os = "linux"
+
+    [[bliss.download]]
+    sha256 = "32c0c47ea9967d6e38d71fb57239bde921fdea506d5dc89a1f52190c29f7d44f"
+    url = "https://github.com/benlorenz/bliss_jll.jl/releases/download/bliss-v0.73.0+0/bliss.v0.73.0.aarch64-linux-musl.tar.gz"
+[[bliss]]
+arch = "powerpc64le"
+git-tree-sha1 = "0197cc024fc0ca57a6f8e60e4b1dea5c9f0a91c1"
+libc = "glibc"
+os = "linux"
+
+    [[bliss.download]]
+    sha256 = "f45ef965c875fe135e01a7767d48e87c55848aee093bed21f5c88ac7da730f0a"
+    url = "https://github.com/benlorenz/bliss_jll.jl/releases/download/bliss-v0.73.0+0/bliss.v0.73.0.powerpc64le-linux-gnu.tar.gz"
+[[bliss]]
+arch = "x86_64"
+git-tree-sha1 = "83037a2b925ddb90296b063cced6f8efeb929283"
+os = "macos"
+
+    [[bliss.download]]
+    sha256 = "ecf709a7292e30594c82581e5f2e65ab56da0ba2b4f0e9a264021a02b8b0328f"
+    url = "https://github.com/benlorenz/bliss_jll.jl/releases/download/bliss-v0.73.0+0/bliss.v0.73.0.x86_64-apple-darwin14.tar.gz"
+[[bliss]]
+arch = "x86_64"
+git-tree-sha1 = "a2d2c1f1fd0004ede7007897d40f8079e4448419"
+libc = "musl"
+os = "linux"
+
+    [[bliss.download]]
+    sha256 = "da690d47fda95db2470367de0292fc94090ab51a02c3afc1ca43e6de896c9940"
+    url = "https://github.com/benlorenz/bliss_jll.jl/releases/download/bliss-v0.73.0+0/bliss.v0.73.0.x86_64-linux-musl.tar.gz"
+[[bliss]]
+arch = "i686"
+git-tree-sha1 = "331f0cc84dc95aaec6a6acac8b696bb254d774c2"
+libc = "glibc"
+os = "linux"
+
+    [[bliss.download]]
+    sha256 = "788af6dfb1a0de64c4780ad3b59497a56d83c2436fe92f4d604c57172c5c9dc4"
+    url = "https://github.com/benlorenz/bliss_jll.jl/releases/download/bliss-v0.73.0+0/bliss.v0.73.0.i686-linux-gnu.tar.gz"
+[[bliss]]
+arch = "aarch64"
+git-tree-sha1 = "99b102fd4f429e104cc4af36a09b3ee43b5db3b4"
+libc = "glibc"
+os = "linux"
+
+    [[bliss.download]]
+    sha256 = "3dfcadc6056b48b2a18588391fc864fbe9ddc8848e5122472264125bd9c2779f"
+    url = "https://github.com/benlorenz/bliss_jll.jl/releases/download/bliss-v0.73.0+0/bliss.v0.73.0.aarch64-linux-gnu.tar.gz"
+[[bliss]]
+arch = "i686"
+git-tree-sha1 = "9a645cb1e2e10e5bc3ba00c5cfff7d247da5418a"
+libc = "musl"
+os = "linux"
+
+    [[bliss.download]]
+    sha256 = "1637d929a05cf3a2b60b32778f660ef20858989ed903721d9058d6bf31e34915"
+    url = "https://github.com/benlorenz/bliss_jll.jl/releases/download/bliss-v0.73.0+0/bliss.v0.73.0.i686-linux-musl.tar.gz"
+[[bliss]]
+arch = "x86_64"
+git-tree-sha1 = "978b70bf55fac022fc41f03c0a27f032f6c5e8e6"
+os = "freebsd"
+
+    [[bliss.download]]
+    sha256 = "df94002af40cbc0c110d360235dea613b154fd3522c68086d57c948264542384"
+    url = "https://github.com/benlorenz/bliss_jll.jl/releases/download/bliss-v0.73.0+0/bliss.v0.73.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[bliss]]
+arch = "armv7l"
+git-tree-sha1 = "ec1d1e60df908cdd757de956b8c5a03fd2ef7fab"
+libc = "musl"
+os = "linux"
+
+    [[bliss.download]]
+    sha256 = "13ad5b1aa7ee1f209c2fb65bc9989b5b3ebdea8aab264880eaa2c6dbedc4c742"
+    url = "https://github.com/benlorenz/bliss_jll.jl/releases/download/bliss-v0.73.0+0/bliss.v0.73.0.arm-linux-musleabihf.tar.gz"
